@@ -1,8 +1,4 @@
-Version: 2.0.4
-Date: 2025-05-22
-
-Changes:
-- Added auto-update system
-- Integrated Discord Rich Presence
-- Fixed crash when no folder was selected
-- Improved download progress handling
+{
+  "version": "2.0.4",
+  "changelog": "- - Added auto-update system\n- Improved performance\n- Bug fixes\n- Improved download progress handling"
+}
