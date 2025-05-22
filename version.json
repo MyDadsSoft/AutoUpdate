@@ -1,5 +1,5 @@
 {
-  "version": "2.1.5.2",
+  "version": "2.2.5.2",
   "changelog": "• New category filtering\n• Discord RPC improvements\n• Bug fixes",
   "force_update": true
 }
