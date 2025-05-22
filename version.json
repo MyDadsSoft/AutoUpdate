@@ -1,4 +1,4 @@
 {
-  "version": "2.1.5",
+  "version": "2.2.5",
   "changelog": "- - Added auto-update system\n- Improved performance\n- Bug fixes\n- Improved download progress handling\n- Fixed Where i fucked up the Version bar cause im a fucking idiot"
 }
