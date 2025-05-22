@@ -1,4 +1,4 @@
 {
-  "version": "2.2.5",
-  "changelog": "- - Added Category Tab"
+  "version": "2.2.5.1",
+  "changelog": "- - Added Category Tab\n Added What Version You Are Using On the RPC"
 }
