@@ -1,4 +1,4 @@
 {
-  "version": "4.0.0.1",
-"changelog": "Added Open folder after download, Show download messages"
+  "version": "4.0.0.2",
+"changelog": "Might have fixed The SSL Issue Not confirming till later"
 }
